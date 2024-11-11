@@ -9,7 +9,11 @@ public class Main {
         Student student3 = new Student("Smith", 17, 436789);
 
 
-        student1.enrollCourses(new ArrayList<>());
+       student1.enrollCourses(List<"Math", "Algebra", "Physics">);
+
+
+
+
 
 
 
